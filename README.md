@@ -1,5 +1,5 @@
 # AZ-500 模擬試験 with GitHub Copilot
-
+※元ネタ：https://github.com/runceel/lets-lean-mcp-architectの内容をAZ-500向けに変更
 Microsoft Azure Security Technologies（AZ-500）資格の取得を支援する学習ツールです。  
 GitHub Copilot の **Skill** 機能を活用し、対話形式で模擬問題に取り組むことができます。
 
